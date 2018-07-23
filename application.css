@@ -1,0 +1,27 @@
+.grid {
+    -fx-padding: 10;
+    -fx-border-style: solid inside;
+    -fx-border-width: 8;
+    -fx-border-insets: 10; 
+    -fx-border-radius: 10;
+    -fx-border-color: #E9B000;
+    -fx-background-color: #4484CE;
+}
+
+.border {
+	-fx-background-color: #E24E42;
+}
+
+hbutton {
+	
+}
+
+button {
+	-fx-background-color: red;
+	-fx-border-color: #E24E42;
+}
+
+textarea {
+	-fx-text-fill: #E9B000;
+	-fx-highlight-text-fill: #E9B000;
+}
